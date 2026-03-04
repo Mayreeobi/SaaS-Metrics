@@ -1,9 +1,9 @@
-# SaaS Metrics Dashboard
+# SaaS Business Health Analysis
 
 > **Multi-dimensional business health analysis using Tableau**.
 > Tracking revenue growth, customer acquisition efficiency, retention, and plan tier unit economics across a 27-month SaaS dataset.
 
-[View Live Dashboard](https://public.tableau.com/app/profile/chinyere.obi8867/viz/SaaSMetricsViz/ExecutiveOverview) | [Dashboard snippet]()
+[View Live Dashboard](https://public.tableau.com/app/profile/chinyere.obi8867/viz/SaaSMetricsViz/ExecutiveOverview) | [Dashboard snippet](https://github.com/Mayreeobi/SaaS-Metrics/blob/main/Executive%20Overview.png)
 
 
 ---
